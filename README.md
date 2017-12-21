@@ -7,9 +7,9 @@ http://trackyourexpenses-com.stackstaging.com/
 
 This project built a website on which users can make records of their daily expenses. 
 
-Built with
-*Front-end: HTML, CSS, JavaScript, Bootstrap
-*Back-end: PHP, MySQL
+Built with:
+* Front-end: HTML, CSS, JavaScript, Bootstrap
+* Back-end: PHP, MySQL
 
 Functions:
 (a) Sign up/Sign in: 
