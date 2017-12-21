@@ -7,6 +7,10 @@ http://trackyourexpenses-com.stackstaging.com/
 
 This project built a website on which users can make records of their daily expenses. 
 
+Built with
+*Front-end: HTML, CSS, JavaScript, Bootstrap
+*Back-end: PHP, MySQL
+
 Functions:
 (a) Sign up/Sign in: 
 Since most data collected in this application will be private information, data security is the most important goal that should be achieved. Therefore, a sign up/sign in system is developed to protect one user’s data from other users. When signing up, the system will check if the user is a new one or has signed up before. When signing in, only a matching of email and password will the user be allowed to continue using this application.
@@ -27,4 +31,3 @@ Bar charts containing total amount of expenses of the past months will be shown 
 When signing up, only email and password are required. If users are willing to provide more information such as their name, they can update their personal information. Besides, in case that altering email will bring inconvenience of using this webpage, email is also set to be changeable.
 
 Except main services of the webpage described above, the application also includes some auxiliary functions like: 1) input checking which makes sure the format of users’ input is correct; 2) notifications when users make changes to their information and records.
-
