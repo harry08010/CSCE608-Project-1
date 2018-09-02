@@ -17,9 +17,11 @@
 		}
 		
 		.containerp{
-			margin: auto;
-			width:30%;
+			
+			width:500px;
 			text-align:left;
+			position:absolute;
+			margin-left-250;
 		}
 		
 		h1 {
@@ -204,8 +206,8 @@
 		
 		#subprofile{
 			position:relative;
-			margin-left:150px;
 			left:50%;
+			margin-left:-43px;
 		}
 		
 		
