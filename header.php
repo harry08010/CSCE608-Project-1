@@ -21,7 +21,8 @@
 			width:500px;
 			text-align:left;
 			position:absolute;
-			margin-left-250;
+			left:50%;
+			margin-left:-250px;
 		}
 		
 		h1 {
