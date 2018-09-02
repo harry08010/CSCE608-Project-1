@@ -198,11 +198,17 @@
 			
 		}
 		
-		#subprofile{
-			
-			margin-left:150px;
-			
+		#updatesuccess {
+			position:absolute;
 		}
+		
+		#subprofile{
+			position:relative;
+			margin-left:150px;
+			left:50%;
+		}
+		
+		
 		
 		.containert{
 			
